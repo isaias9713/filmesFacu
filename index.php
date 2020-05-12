@@ -9,7 +9,7 @@
 
 </head>
 
-<style>
+<style> 
     .video{
         width: 100%;
         max-width: 500px;
